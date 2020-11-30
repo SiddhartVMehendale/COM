@@ -1,0 +1,4 @@
+D:\Projects\Test\COM\ClassFactory\Client\ClientOfClassFactoryDllServerWithRegFile\Debug\ClientOfClassFactoryDllServerWithRegFile.exe
+D:\Projects\Test\COM\ClassFactory\Client\ClientOfClassFactoryDllServerWithRegFile\Debug\ClientOfClassFactoryDllServerWithRegFile.pdb
+D:\Projects\Test\COM\ClassFactory\Client\C Client\ClientOfClassFactoryDllServerWithRegFile\Debug\ClientOfClassFactoryDllServerWithRegFile.exe
+D:\Projects\Test\COM\ClassFactory\Client\C Client\ClientOfClassFactoryDllServerWithRegFile\Debug\ClientOfClassFactoryDllServerWithRegFile.pdb

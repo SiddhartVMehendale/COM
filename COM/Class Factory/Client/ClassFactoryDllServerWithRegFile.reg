@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+[HKEY_CLASSES_ROOT\WOW6432Node\CLSID\{AAF6E8EA-5197-4A72-9A3D-2904CBE60A18}]
+@="MYComFirstClassFactoryDll"
+[HKEY_CLASSES_ROOT\WOW6432Node\CLSID\{AAF6E8EA-5197-4A72-9A3D-2904CBE60A18}\InprocServer32]
+@="C:\\Windows\\SysWOW64\\ClassFactroy.dll"
+
+
